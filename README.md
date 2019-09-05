@@ -22,7 +22,7 @@ domains have demonstrated the effectiveness of the proposed model, especially wh
 
 We present the statistics of the linked dataset in the following table:
 
-[![detail statistics](https://github.com/RUCAIBox/Person-Job-Fit/new_table.png)](https://github.com/RUCAIBox/Person-Job-Fit/new_table.png)
+[![detail statistics](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/new_table.png)](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/new_table.png)
 
 ## DownLoad and Usage
 
@@ -56,8 +56,6 @@ If you use our dataset or useful in your research, please kindly cite our papers
   year={2019}
 }
 ```
-
-
 
 ## Additional Notes
 
