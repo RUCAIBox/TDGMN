@@ -24,7 +24,7 @@ We present the statistics of the linked dataset in the following table:
 
 [![detail statistics](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/new_table.png)](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/new_table.png)
 
-## DownLoad and Usage
+## Download and Usage
 
 ### By using the datasets, you must agree to be bound by the terms of the following [licence](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Licence).
 
