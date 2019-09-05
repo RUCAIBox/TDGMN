@@ -26,16 +26,16 @@ We present the statistics of the linked dataset in the following table:
 
 ## DownLoad and Usage
 
-### By using the datasets, you must agree to be bound by the terms of the following [license](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Licence).
+### By using the datasets, you must agree to be bound by the terms of the following [licence](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Licence).
 
 - Then complete the form online <https://docs.google.com/forms/d/1F8Gyd5Hd2fTZbwHVd46lTzaAkXWJ3e1-EUecHn_iA1I/prefill> and mail to shuqingbian@gmail.com and cc Wayne Xin Zhao via [batmanfly@gmail.com](mailto:batmanfly@gmail.com) and Yang Song via [songyang@kanzhun.com](mailto:songyang@kanzhun.com) with your corporate mailbox, we will send you the datasets by e-mail when approved.
 
 ## Licence
 
-By using the datasets, you must agree to be bound by the terms of the following license.
+By using the datasets, you must agree to be bound by the terms of the following licence.
 
 ```
-License agreement
+Licence agreement
 This dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation. Permission is granted to use the data given that you agree:
 1. That the dataset comes “AS IS”, without express or implied warranty. Although every effort has been made to ensure accuracy, we do not accept any responsibility for errors or omissions. 
 2. That you include a reference to the ”BOSS Zhipin“ dataset in any work that makes use of the dataset. For research papers, cite our preferred publication as listed on our References; for other media cite our preferred publication as listed on our website or link to the dataset website.
