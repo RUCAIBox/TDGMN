@@ -26,7 +26,7 @@ We present the statistics of the linked dataset in the following table:
 
 ## DownLoad and Usage
 
-### By using the datasets, you must agree to be bound by the terms of the following [license](https://github.com/RUCAIBox/KB4Rec/blob/master/README.md#Licence).
+### By using the datasets, you must agree to be bound by the terms of the following [license](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Licence).
 
 - Then complete the form online <https://docs.google.com/forms/d/1F8Gyd5Hd2fTZbwHVd46lTzaAkXWJ3e1-EUecHn_iA1I/prefill> and mail to shuqingbian@gmail.com and cc Wayne Xin Zhao via [batmanfly@gmail.com](mailto:batmanfly@gmail.com) and Yang Song via [songyang@kanzhun.com](mailto:songyang@kanzhun.com) with your corporate mailbox, we will send you the datasets by e-mail when approved.
 
@@ -63,4 +63,3 @@ If you use our dataset or useful in your research, please kindly cite our papers
   Song, Tao Zhang and Ji-Rong Wen.
 - If you have any questions or suggestions with this dataset, please kindly let us know. Our goal is to make the dataset reliable and useful for the community.
 - For contact, send email to [shuqingbian@gmail.com](mailto:shuqingbian@gmail.com), and cc Wayne Xin Zhao via [batmanfly@gmail.com](mailto:batmanfly@gmail.com) and Yang Song via [songyang@kanzhun.com](mailto:songyang@kanzhun.com) .
-
