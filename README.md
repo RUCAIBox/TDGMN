@@ -1,6 +1,6 @@
 # Person-Job-Fit
 
-this repository contains the source code for the EMNLP 2019 paper **Domain Adaptation for Person-Job Fit with Transferable Deep Global Match Network**
+This repository contains the source code for the EMNLP 2019 paper **Domain Adaptation for Person-Job Fit with Transferable Deep Global Match Network**
 
 ## Directory
 
