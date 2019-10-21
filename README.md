@@ -4,12 +4,12 @@ This repository contains the source code for the EMNLP 2019 paper **Domain Adapt
 
 ## Directory
 
-- [Motivations](https://github.com/RUCAIBox/KB4Rec/blob/master/README.md#Motivations)
-- [Datasets](https://github.com/RUCAIBox/KB4Rec/blob/master/README.md#Datasets)
-- [DownLoad and Usage](https://github.com/RUCAIBox/KB4Rec/blob/master/README.md#Download)
-- [Licence](https://github.com/RUCAIBox/KB4Rec/blob/master/README.md#Licence)
-- [References](https://github.com/RUCAIBox/KB4Rec/blob/master/README.md#References)
-- [Additional Notes](https://github.com/RUCAIBox/KB4Rec/blob/master/README.md#Addition)
+- [Motivations](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Motivations)
+- [Datasets](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Datasets)
+- [DownLoad and Usage](https://github.com/Person-Job-Fit/KB4Rec/blob/master/README.md#Download)
+- [Licence](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Licence)
+- [References](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#References)
+- [Additional Notes](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Addition)
 
 ## Motivations
 
@@ -28,7 +28,7 @@ We present the statistics of the linked dataset in the following table:
 
 ### By using the datasets, you must agree to be bound by the terms of the following [licence](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Licence).
 
-- Then complete the form online <https://docs.google.com/forms/d/1F8Gyd5Hd2fTZbwHVd46lTzaAkXWJ3e1-EUecHn_iA1I/prefill> and mail to shuqingbian@gmail.com and cc Wayne Xin Zhao via [batmanfly@gmail.com](mailto:batmanfly@gmail.com) and Yang Song via [songyang@kanzhun.com](mailto:songyang@kanzhun.com) with your corporate mailbox, we will send you the datasets by e-mail when approved.
+- Then complete the form online <https://docs.google.com/forms/d/1F8Gyd5Hd2fTZbwHVd46lTzaAkXWJ3e1-EUecHn_iA1I/prefill> and mail to shuqingbian@gmail.com and we will send you the datasets by e-mail when approved via Wayne Xin Zhao and Yang Song.
 
 ## Licence
 
@@ -62,4 +62,4 @@ If you use our dataset or useful in your research, please kindly cite our papers
 - The following people contributed to this work: Shuqing Bian, Wayne Xin Zhao, Yang
   Song, Tao Zhang and Ji-Rong Wen.
 - If you have any questions or suggestions with this dataset, please kindly let us know. Our goal is to make the dataset reliable and useful for the community.
-- For contact, send email to [shuqingbian@gmail.com](mailto:shuqingbian@gmail.com), and cc Wayne Xin Zhao via [batmanfly@gmail.com](mailto:batmanfly@gmail.com) and Yang Song via [songyang@kanzhun.com](mailto:songyang@kanzhun.com) .
+- For contact, send email to [shuqingbian@gmail.com](mailto:shuqingbian@gmail.com).
