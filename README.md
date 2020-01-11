@@ -28,7 +28,10 @@ We present the statistics of the linked dataset in the following table:
 
 ### By using the datasets, you must agree to be bound by the terms of the following [licence](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Licence).
 
-- Then complete the form online <https://docs.google.com/forms/d/1F8Gyd5Hd2fTZbwHVd46lTzaAkXWJ3e1-EUecHn_iA1I/prefill> and mail to shuqingbian@gmail.com and we will send you the datasets by e-mail when approved via Wayne Xin Zhao and Yang Song.
+By using the datasets, you must agree to be bound by the terms of the following license.
+
+Then mail to [bianshuqing@ruc.edu.cn] and cc Wayne Xin Zhao via [batmanfly@qq.com] and Yang Song via [songyang@kanzhun.com] and your supervisor, and copy the license in the email. We will send you the datasets by e-mail when approved.
+
 
 ## Licence
 
