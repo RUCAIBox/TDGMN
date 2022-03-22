@@ -6,7 +6,6 @@ This repository contains the source code for the EMNLP 2019 paper **Domain Adapt
 
 - [Motivations](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Motivations)
 - [Datasets](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Datasets)
-- [DownLoad and Usage](https://github.com/Person-Job-Fit/KB4Rec/blob/master/README.md#Download)
 - [Licence](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Licence)
 - [References](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#References)
 - [Additional Notes](https://github.com/RUCAIBox/Person-Job-Fit/blob/master/README.md#Addition)
@@ -30,8 +29,11 @@ We present the statistics of the linked dataset in the following table:
 
 By using the datasets, you must agree to be bound by the terms of the following license.
 
-Then mail to [bianshuqing@ruc.edu.cn] and cc Wayne Xin Zhao via [batmanfly@qq.com] and Yang Song via [songyang@kanzhun.com] and your supervisor, and copy the license in the email. We will send you the datasets by e-mail when approved.
+[Update] Data cannot be shared temporarily due to commercial reasons.
 
+<!-- 
+Then mail to [bianshuqing@ruc.edu.cn] and cc Wayne Xin Zhao via [batmanfly@qq.com] and Yang Song via [songyang@kanzhun.com] and your supervisor, and copy the license in the email. We will send you the datasets by e-mail when approved.
+-->
 
 ## Licence
 
